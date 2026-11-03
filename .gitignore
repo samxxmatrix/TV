@@ -8,3 +8,16 @@
 *.properties
 lib-*.aar
 /Release
+# 过程资产与本地配置不入库，存于 D:/WorkBuddy/_private/TV/
+docs/superpowers/
+docs/workbuddy_plan/
+docs/plans/
+docs/specs/
+test-reports/
+.claude/
+.workbuddy/
+.cursor/
+.mcp.json
+AGENTS.md
+CLAUDE.md
+tools/oneoff/
